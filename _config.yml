@@ -17,13 +17,13 @@ sidebar-avatar: /img/Myself.jpg      # use absolute URL, seeing it's used in bot
 
 
 # SNS settings
-RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     houxuezhi
-github_username:    houxuezhi
+RSS: true
+weibo_username:     影者风云HT
+zhihu_username:     飞宇
+github_username:    hxzblog
 facebook_username:  
 jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+twitter_username:   houxuezhi
 
 
 
